@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🎓 I'm a Computer Science student 
 * 🌐 You can see some of my projects on [my github](https://github.com/MhmdArsyad)
 
 
