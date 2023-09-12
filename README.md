@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-* 🎓 I'm a Computer Science student 
+* 🎓 I'm a Software Engineering Student 
 * 🌐 You can see some of my projects on [my github](https://github.com/MhmdArsyad)
 
 
